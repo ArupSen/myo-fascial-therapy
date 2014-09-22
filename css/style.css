@@ -1,0 +1,160 @@
+/*
+Stylesheet for http://myofascialreleaselondon.com
+Date: January 2012
+Author: Arup Sen
+Author url: http://arupdesigns.co.uk
+Author email: arupsen48@gmail.com
+
+css to zero courtesy of Eric Meyer with adjustments
+No license. Use what you like.
+Happy to receive feedback :)
+*/
+
+
+
+html, body, div, span,
+applet, object, iframe,
+h1, h2, h3, h4, h5, h6, p, blockquote, pre,
+a, abbr, acronym, address, big, cite, code,
+del, dfn, em, font, img, ins, kbd, q, s, samp,
+small, strike, strong, sub, sup, tt, var,
+dd, dl, dt, li, ol, ul,
+fieldset, form, label, legend,
+table, caption, tbody, tfoot, thead, tr, th, td {
+	margin: 0;
+	padding: 0;
+	border: 0;
+	font-weight: inherit;
+	font-style: inherit;
+	font-size: 100%;
+	font-family: inherit;
+	text-align: left;
+	vertical-align: baseline;
+}
+a img, :link img, :visited img {border: 0;}
+table {
+	border-collapse: collapse;
+	border-spacing: 0;}
+ol, ul {list-style: none;}
+q:before, q:after,
+blockquote:before, blockquote:after {
+	content: "";}
+/*		after the zeroing out what next ???*/
+		
+/* COLOUR PALETTE
+
+#ACB8F4 - pale blue for the heading
+#3761EB - dark blue for the P and C
+#DFF4A4 - pale green background colour
+#030304 - very dark blue link colours
+#343A23 - body text
+
+*/
+
+/* BG IMAGE PATH url('../images/my_image.gif') */
+/*the main global rules*/
+
+body{font-family:Arial,Helvetica, sans-serif;font-size:100.01%;position:relative;margin:0 auto;/*padding-top:35px;padding-left:35px;*/color:#666;}
+div#wrap{width:1020px;margin:0 auto;position:relative;/*background:url(../images/960_grid_12_col.png) repeat-y #FFF;*/}
+	
+	
+/*grouped selectors - good for position:absolute and relative*/
+h1, h2, #cnhc, #imft, #isrm, #hale {position:relative;}
+
+/*main heading and sub heading*/
+h1, h2  {font-family: 'Magra', sans-serif;color:#333333;}
+h2 {top:-8px;left:200px;font-size:18px;width:20%;display:none;}
+p#phone{position:relative;left:599px;top:-30px;font-size:20px;width:40%;color:#333333;}
+h1 span{color:#664A9C;}
+h1 {font-size:50px;font-weight:bold;left:39px;color:#220061;}
+
+	
+/*content area*/
+div#contents{position:absolute;left:160px;top:83px;/*border-left:1px solid #999;*/padding:0 40px;width:729px;}
+#contents p{font-size:16px;padding-bottom:1em;width:380px;}
+#contents h3{color:#000000;font-size:20px;line-height:2.2em;position:relative;top:-3px;}
+
+#contents ul{padding-bottom:1em;margin-left:0.5em;}
+
+#contents h4{padding-bottom:1em;font-weight:bold;}
+#contents li{padding-left:1em;background:url(../images/bullet.png) no-repeat 0% 50%;}
+#contents a{text-decoration:none;color:#333333;}
+#contents a:hover{color:#999999;}
+
+/*home page logos*/
+.massage_logos{margin-top:10px;width:1030px;}
+#isrm {padding-right:35px;top:16px;}
+#cnhc {padding-right:35px;top:16px;}
+#imft{padding-right:139px;top:15px;}
+#hale {top:14px;}
+#girl_jumping{margin-top:25px;position:absolute;left:440px;top:1px;}
+
+	
+/*main navbar*/
+ul#navbar{width:150px;padding-left:42px;padding-top:3px;}
+ul#navbar li{}
+	
+div#clear {clear:left;display:none;}
+ul#navbar li a{text-decoration:none;color:#333333;font-size:20px;line-height:1.6em;}
+ul#navbar li a:hover{color:#666666;}
+#index #nav-home a, #appointments #nav-appointments a, #links #nav-links a, #therapist #nav-therapist a, #about #nav-about a, #comments #nav-comments a{color:#666666;}
+
+/* appointments page */
+#wlbc {position:absolute;left:440px;top:430px;}
+iframe.alexandra {position:absolute;left:440px;top:26px;}
+iframe.buddhist_centre {position:absolute;left:440px;top:435px;}
+small.alex {position:absolute;left:440px;top:385px;font-size:10px;}
+small.buddhist {position:absolute;left:440px;top:795px;font-size:10px;}
+#appointments h4, #appointments h3 {margin-top:0px;}
+#appointments h4.wlbc_title {margin-top:161px;}
+
+/* therapists page */
+#pauline {position:absolute;left:440px;top:26px;}
+#john {position:absolute;left:440px;top:520px;padding-bottom:20px;}
+
+/*comments page*/
+blockquote {margin-bottom:0.5em;}
+cite {font-style:italic;margin-bottom:1.5em;display:block;}
+
+/*photobox on about page*/
+#photobox {position:absolute;width:140px;left:-120px;top:217px;}
+#photobox img {margin-bottom:120px;}
+
+/* about page */	
+#about #contents p {width:721px;}
+#about #fascia_diagram {margin-left:80px;}
+#about #fascia_diagram, #about #barnesfascia {padding-bottom:10px;}
+
+/* links page */
+#tensegrity {position:absolute;left:440px;top:550px;}
+#links #contents a {font-weight:bold;background:url(../images/bullet.png) no-repeat 0% 50%;padding:1em;}
+#links #skeleton {position:absolute;left:440px;top:26px;}
+#links h4 {color:blue;}
+
+/*footer image link - arup designs*/
+#footer{height:40px;}
+
+/*safari rules and other webkit browsers*/
+@media screen and (-webkit-min-device-pixel-ratio:0){
+/*	global rules*/
+	div#wrap{padding-bottom:40px;}
+
+/*	navbar*/
+	
+	ul#navbar{}
+	ul#navbar li {}
+	
+
+
+/*	content area*/
+	div#contents{}
+	div#contents p{}
+	
+	
+}
+
+/*opera specific rules*/
+@media all and (-webkit-min-device-pixel-ratio:10000), not all and (-webkit-min-device-pixel-ratio:0) {
+/* 7.2 up */
+
+}
