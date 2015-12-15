@@ -8,21 +8,21 @@ navbar();
 // the unique contents will go here up to the footer
 ?>
 <h3>The Egoscue Method</h3>
-<p>I have added another tool to my toolbox which is the Egoscue Method of postural alignment. Popular in the USA but fairly unheard of in the UK.</p>
-<p>Over the years I came to realize that although I was quite good at releasing the soft tissue of the body that if clients would or could not work on strengthening the muscles that had weakened and address postural problems, the (pain) symptoms would come back.</p>
-<p>I have also struggled with my own knee injury that was a result of a chronic imbalance so I looked for something that worked after not getting the results I hoped for with many other modalities. The Egoscue Method execises worked!</p>
-<p>I think that people like to feel empowered to help themselves when musculoskeletal issues strike and not be dependent only on a body therapist. Even better, with proper alignment of the body chronic pain will disappear and one can have a massage just for pleasure!</p>
-<p>The Egoscue Method is a great tool for self care and to me, the Egoscue method is the perfect active partner to Myofascial Release and Remedial massage.</p>
+<p>Over the years, I've come to realise that although I was good at releasing the soft tissues in the bodies of my clients, the symptoms (pain) that were relieved would soon come back and persist.</p>
+<p>I too have personally struggled with pain from a knee injury that was a result of a subtle yet chronic body imbalance. And after months of not achieving the recovery I'd hoped for using several different modalities, I discovered The Egoscue Method. And upon trialling their exercises for a short period, it had worked!</p>
+<p>I believe that people, if they had the opportunity to, would love to feel empowered and possess the knowledge that allows them to help themselves when musculoskeletal issues arise. As well as not having to be dependent on a body therapist alone. Even better, with proper body alignment, chronic pain will disappear and one can have a massage just for pleasure!</p>
+<p>The Egoscue Method is a great tool for self care and to me, this method is the perfect active partner to Myofascial Release and Remedial Massage.</p>
 <?php img_tag('egoscue1.jpg','','egoscue1'); ?>
-<?php img_tag('egoscue2.jpg','','egoscue2'); ?>
 <h3>How it works:</h3>
 <p>The first appointment will be the longest.</p>
-<p>You will have you photos taken, front, back and sides. (Please wear tight fitting possibly light coloured clothing or shorts and top). A plumb line will be superimposed on the photo and show you your vertical and horizontal misalignment or alignment.</p>
-<p>There is an intake form to fill in and a health history will be taken.</p>
+<p>You will have your photos taken; front, back and both sides. (Please wear tight fitted, preferably light coloured clothing or shorts and a top). Plumb lines will be superimposed on the photos and reveal your vertical and horizontal alignment/misalignment.</p>
+<p>There is an intake form to fill in and your health history will be taken.</p>
 <p>Functional tests will be done to identify dysfunction and compensation.</p>
-<p>There will be a comparing the condition presented with the position of the body.</p>
-<p>Then you will have a personal menu of gentle exercises and stretches created for you addressing your personal body issues, which you will do usually daily for 1 week before you come back to have your menu revised, questions answered and checked if the exercises are properly done. Doing a menu can take anything from 15 min to 2 hrs. We will discuss how to fit it in your daily routine. It is a commitment both financially and timewise and you will be asked to set goals so progress can be measured.</p>
-<p>Apart from helping you to getting pain free, the Egoscue Method can also help you to do your favourite acivities more efficiently and  better!</p>
+<p>An analysis will be made, comparing the condition presented with the position of your body</p>
+<p>You will then have a personal menu of gentle exercises and stretches created specifically for you, that addresses your personal body issues. You will be asked to trial this menu on a daily basis, for 1 week, before coming back to have it revised, have any of your questions answered, and physically observed to ensure your exercises are being done correctly.</p>
+<p>Going through a menu can take anywhere between 15 minutes to 2 hours. We will discuss ways of fitting this into your daily routine. Remember, it is both a financial and time commitment that will aid the improvement of your health. Finally, you will be asked to set goals so that personal progress can be measured.</p>
+<p>Apart from helping you to become pain free, the Egoscue Method can also help you to do your favourite activities efficiently better!</p>
+<?php img_tag('egoscue2.jpg','','egoscue2'); ?>
 <h3>Links and resources:</h3>
 <p>Website: <a href="http://www.egoscue.com/" target="_blank" title="visit the Egoscue website">www.egoscue.com</a></p>
 <p>YouTube: <a href="https://www.youtube.com/results?search_query=Egoscue+for+chronic+knee+pain" target="_blank">Egoscue for chronic knee pain</a><br>
@@ -33,6 +33,7 @@ navbar();
 <a href="https://www.youtube.com/results?search_query=Egoscue+alignment+exercises+to+do+during+a+long+drive" target="_blank">Egoscue alignment exercises to do during a long drive</a><br>
 <a href="https://www.youtube.com/results?search_query=Egoscue++for+the+office+" target="_blank">Egoscue  for the office </a><br>
 </p>
-<p>They are all great and give you a good idea but the most effective method is having your personal menu.</p>
-
+<p>All of the above provides great information that will give you a general idea of The Egoscue Method, however the most effective way I've found is having your own personal menu.</p>
+<p>So to start your journey to a pain free body, please get in touch at 07944 435338.</p>
+<p>Looking forward to meeting you.</p>
 <?php footer(); ?>
