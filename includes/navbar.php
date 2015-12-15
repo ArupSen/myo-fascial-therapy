@@ -12,6 +12,7 @@ function createNavLink($name)
 <ul id="navbar">
 	<li id="nav-home"><a href="index.php" title="home"><span class="tab" >home</span></a></li>
 	<li id="nav-about"><a href="about.php" title="about mfr"><span class="tab" >about mfr</span></a></li>
+	<li id="nav-egoscue"><a href="egoscue.php" title="about egoscue"><span class="tab" >about egoscue</span></a></li>
 	<?php //createNavLink("about"); ?>
 	<?php createNavLink("appointments"); ?>
 	<?php createNavLink("therapist"); ?>

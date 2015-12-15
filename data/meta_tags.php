@@ -37,4 +37,8 @@ $links = array(
 	'description' => 'Myofascial Release Therapy in London. Links to useful websites for further information',
 	'keywords' => 'anatomy trains, myofascial release, MFR, integrated myofascial release, myofascial release treatment');
 
+$egoscue = array(
+	'title' => 'Myofascial Release Therapy in London | The Egoscue Method',
+	'description' => 'The Egoscue Method is a great tool for self care and to me, this method is the perfect active partner to Myofascial Release and Remedial Massage.',
+	'keywords' => 'Egoscue Method, Functional tests, postural alignment, chronic knee pain');
 ?>

@@ -95,7 +95,7 @@ ul#navbar li{}
 div#clear {clear:left;display:none;}
 ul#navbar li a{text-decoration:none;color:#333333;font-size:20px;line-height:1.6em;}
 ul#navbar li a:hover{color:#666666;}
-#index #nav-home a, #appointments #nav-appointments a, #links #nav-links a, #therapist #nav-therapist a, #about #nav-about a, #comments #nav-comments a{color:#666666;}
+#index #nav-home a, #appointments #nav-appointments a, #links #nav-links a, #therapist #nav-therapist a, #about #nav-about a, #comments #nav-comments a, #egoscue #nav-egoscue a{color:#666666;}
 
 /* appointments page */
 #wlbc {position:absolute;left:440px;top:430px;}
