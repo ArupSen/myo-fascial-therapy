@@ -12,8 +12,9 @@ navbar();
 <p>I have been passionate about exploring the connection between mind and body for a long time, and have experienced many types of treatments. When I received my first MFR treatment these two aspects came together for me, which made me so curious that I wanted to learn how to do it myself. I first studied in the UK and later in the USA.</p>
 <p>I find MFR an amazing results based approach that helped me a lot with understanding and dealing with pain. There is more and more research on the fascia of the body and the benefits of MFR these days.</p>
 <p><a href="links.php">Please see my links page.</a></p>
-<p>Last year I created a new website: <a href="http://alignandmove.co.uk" target="_blank">alignandmove.co.uk</a><br><br>
-Please have a look for more information, videos and postural alignment exercises for at home! </p>
+<p>Last year I created a new website:</p>
+<h3><a href="http://alignandmove.co.uk" target="_blank">alignandmove.co.uk</a></h3>
+<p>Please have a look for more information, videos and postural alignment exercises for at home!</p>
 <p>
 I work from my home near Ladbroke  Grove West London.
 For an appointment please call:<br /> 0207 2211302 or mobile 07944435338
